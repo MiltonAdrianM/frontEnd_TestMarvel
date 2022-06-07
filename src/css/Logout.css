@@ -1,0 +1,25 @@
+.close {
+    display: inline-block;
+    color: #fff;
+    background-color: #203e7b;
+    position: absolute;
+    left: 89%;
+    top: 8%;
+    transform: translate (-50%, -50%);
+    border: 1px solid blue;
+    padding: 40px;
+    background-color: white;
+}
+.close:hover {
+    background-color: rgb(23, 58, 100);
+}
+
+.containerSecundario {
+    text-align: center;
+}
+
+h4 {
+    position: absolute;
+    left: 89%;
+    top: 4%;
+}
